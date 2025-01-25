@@ -1,3 +1,20 @@
+!*************************************************************************************************************************
+! Name: Malik Freeman
+! Date: 2/2/2025
+! Course: SSE 662 - Design, Maintenance, and Quality
+! Assignment: Module 2 Programming Task
+! File Name: complex_calculator.f90
+! Description: This file implements a program that performs operations on complex numbers in Fortran.
+!              The program allows users to:
+!              - Add two complex numbers
+!              - Subtract two complex numbers
+!              - Multiply two complex numbers
+!              - Divide two complex numbers
+!              - Raise a complex number to an integer power
+!              - Compute the complex conjugate
+!              - Display results in different formats (real, imag, real+imag*i)
+!*************************************************************************************************************************
+
 module complex_module
     implicit none
   
