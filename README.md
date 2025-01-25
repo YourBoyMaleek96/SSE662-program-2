@@ -26,7 +26,8 @@ The program also includes input validation to ensure that complex numbers are en
 - **Input Validation**: Ensures complex numbers are entered correctly and handles invalid inputs gracefully
 
 ## Requirements
-- **Fortran Compiler**: To compile and run the program, you will need a Fortran compiler such as [GFortran](https://gcc.gnu.org/fortran/).
+- **Fortran Compiler**
+- **Visual Studio Code with the FORTRAN extension**
 
 ## How to Run the Program
 
